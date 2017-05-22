@@ -2,7 +2,7 @@
     "name": "js-rsync"
   , "version": "0.0.2"
   , "description": "rsync implemented in node.js over http"
-  , "keywords": ["rsync", "node", "javascript"]
+  , "keywords": ["rsync", "node", "javascript", "algorithm"]
   , "author": "Carlos Galarza <carloslfu@gmail.com>"
   , "contributors": [
     "Mihai Tomescu <matomesc@gmail.com>",
