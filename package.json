@@ -1,6 +1,6 @@
 {
     "name": "js-rsync"
-  , "version": "0.0.2"
+  , "version": "0.0.3"
   , "description": "rsync implemented in node.js over http"
   , "keywords": ["rsync", "node", "javascript", "algorithm"]
   , "author": "Carlos Galarza <carloslfu@gmail.com>"
