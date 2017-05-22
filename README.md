@@ -13,4 +13,4 @@ Rsync implemented in node over http
 
 ## Implementation
 
-This is a fork of [ttezel/anchor](https://github.com/ttezel/anchor), thanks to Mihai Tomescu (matomesc@gmail.com) and Tolga Tezel (tolgatezel11@gmail.com) for the initial implementation. We will maintain this repo as we use it in internal projects and share our fixes-refactors as open source code.
+This is a fork of [ttezel/anchor](https://github.com/ttezel/anchor), thanks to Mihai Tomescu (matomesc@gmail.com) and Tolga Tezel (tolgatezel11@gmail.com) for the initial implementation. We will maintain and improve the library because we use it in an internal project and we will share our fixes-refactors as open source code.
