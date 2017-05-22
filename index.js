@@ -1,2 +1,2 @@
 
-module.exports = require('./lib/node-rsync');
+module.exports = require('./lib/node-rsync')
